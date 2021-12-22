@@ -1,0 +1,30 @@
+{
+	"storyName": "wooooooooooooooo yeah baby",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Critiverse",
+			"critical",
+			[
+				106,
+				113,
+				233
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "moist week"
+}
